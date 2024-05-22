@@ -1,1 +1,2 @@
 hi....i am abc file
+2nd line is added by console
